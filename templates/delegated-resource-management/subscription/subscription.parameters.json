@@ -3,10 +3,17 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
-        },
-        "mspOfferDescription": {
-            "value": "Relecloud Managed Services"
+        "type": "string",
+        "defaultValue": "Graphite GTC Azure Managed Services",
+        "metadata": {
+            "description": "Specify a unique name for your offer"
+        }
+    },
+    "mspOfferDescription": {
+        "type": "string",
+        "defaultValue": "Graphite GTC Azure Managed Subscription Service",
+        "metadata": {
+            "description": "Name of the Managed Service Provider offering"
         },
         "managedByTenantId": {
             "value": "<insert managing tenant id>"
