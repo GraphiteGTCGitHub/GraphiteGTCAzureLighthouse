@@ -3,7 +3,8 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
+            "value": "Relecloud Managed Services",
+            "defaultvalue": "Azure Lighthouse Managed Service"
         },
         "mspOfferDescription": {
             "value": "Relecloud Managed Services"
