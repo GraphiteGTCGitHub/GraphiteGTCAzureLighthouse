@@ -4,7 +4,7 @@
     "parameters": {
         "mspOfferName": {
         "type": "string",
-        "defaultValue": "Graphite GTC Azure Managed Services",
+        "defaultValue": "Graphite GTC Azure Managed Services pppp",
         "metadata": {
             "description": "Specify a unique name for your offer"
         }
