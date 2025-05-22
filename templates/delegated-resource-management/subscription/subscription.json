@@ -11,6 +11,7 @@
         },
         "mspOfferDescription": {
             "type": "string",
+            "defaultValue": "Graphite GTC Azure Subscription Managed Services",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             }
